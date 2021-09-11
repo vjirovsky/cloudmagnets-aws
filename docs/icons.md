@@ -1,0 +1,25 @@
+<img src="images/icons/Arch_Analytics/Arch_Amazon-Athena_64.scad.png" width="200"/>
+<img src="images/icons/Arch_Analytics/Arch_Amazon-Elasticsearch-Service_64.scad.png" width="200"/>
+<img src="images/icons/Arch_Analytics/Arch_Amazon-QuickSight_64.scad.png" width="200"/>
+<img src="images/icons/Arch_Analytics/Arch_Amazon-Redshift_64.scad.png" width="200"/>
+<img src="images/icons/Arch_Analytics/Arch_AWS-Glue_64.scad.png" width="200"/>
+<img src="images/icons/Arch_App-Integration/Arch_Amazon-API-Gateway_64.scad.png" width="200"/>
+<img src="images/icons/Arch_App-Integration/Arch_Amazon-Simple-Notification-Service_64.scad.png" width="200"/>
+<img src="images/icons/Arch_App-Integration/Arch_Amazon-Simple-Queue-Service_64.scad.png" width="200"/>
+<img src="images/icons/Arch_App-Integration/Arch_AWS-Step-Functions_64.scad.png" width="200"/>
+<img src="images/icons/Arch_Compute/Arch_Amazon-EC2_64.scad.png" width="200"/>
+<img src="images/icons/Arch_Compute/Arch_AWS-Elastic-Beanstalk_64.scad.png" width="200"/>
+<img src="images/icons/Arch_Compute/Arch_AWS-Lambda_64.scad.png" width="200"/>
+<img src="images/icons/Arch_Containers/Arch_AWS-Fargate_64.scad.png" width="200"/>
+<img src="images/icons/Arch_Database/Arch_Amazon-Aurora_64.scad.png" width="200"/>
+<img src="images/icons/Arch_Database/Arch_Amazon-DynamoDB_64.scad.png" width="200"/>
+<img src="images/icons/Arch_Database/Arch_Amazon-ElastiCache_64.scad.png" width="200"/>
+<img src="images/icons/Arch_Database/Arch_Amazon-RDS_64.scad.png" width="200"/>
+<img src="images/icons/Arch_Networking-Content-Delivery/Arch_Amazon-CloudFront_64.scad.png" width="200"/>
+<img src="images/icons/Arch_Networking-Content-Delivery/Arch_Amazon-Route-53_64.scad.png" width="200"/>
+<img src="images/icons/Arch_Networking-Content-Delivery/Arch_Amazon-Virtual-Private-Cloud_64.scad.png" width="200"/>
+<img src="images/icons/Arch_Networking-Content-Delivery/Arch_Elastic-Load-Balancing_64.scad.png" width="200"/>
+<img src="images/icons/Arch_Security-Identity-Compliance/Arch_Amazon-Cognito_64.scad.png" width="200"/>
+<img src="images/icons/Arch_Security-Identity-Compliance/Arch_AWS-Key-Management-Service_64.scad.png" width="200"/>
+<img src="images/icons/Arch_Security-Identity-Compliance/Arch_AWS-WAF_64.scad.png" width="200"/>
+
