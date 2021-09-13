@@ -22,4 +22,5 @@
 <img src="images/icons/Arch_Security-Identity-Compliance/Arch_Amazon-Cognito_64.scad.png" width="200"/>
 <img src="images/icons/Arch_Security-Identity-Compliance/Arch_AWS-Key-Management-Service_64.scad.png" width="200"/>
 <img src="images/icons/Arch_Security-Identity-Compliance/Arch_AWS-WAF_64.scad.png" width="200"/>
+<img src="images/icons/Arch_Storage/Arch_Amazon-Simple-Storage-Service_48.scad.png" width="200"/>
 
