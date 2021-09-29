@@ -37,10 +37,9 @@ Do you prefer Azure over AWS? No problem, <a href="https://vjirovsky.github.io/c
 
 ## Photos 
 <br>
+<img src="images/usage/printing-4.jpg" width="400"/>
 <img src="images/usage/printing-2.jpg" width="400"/>
 <img src="images/usage/printing-5.jpg" width="400"/>
-<img src="images/usage/printing-4.jpg" width="400"/>
-<img src="images/usage/printing-6.jpg" width="400"/>
 
 ## Available icons
 
