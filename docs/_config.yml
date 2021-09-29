@@ -1,3 +1,13 @@
 theme: jekyll-theme-cayman
 project_title: AWS Services Whiteboard Magnets
 title: AWS Services Whiteboard Magnets
+twitter:
+  username: vjirovsky
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /images/usage/social.png
+        height: 640
+        width: 1280
