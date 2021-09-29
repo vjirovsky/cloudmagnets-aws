@@ -24,8 +24,6 @@ I wanted to speed up my work and make it more readable - so I have designed my c
 
 All models are in STL format, ready to be printed with multi-material 3D printer (like *Prusa MMU2S*) - originally designed in OpenSCAD.
 
-In `_print_exports/` folder are optimized ready-to print `.3mf` projects.
-
 <div style="margin-top: 20px;margin-bottom: 20px;color: #084298;background-color: #cfe2ff;border-color: #b6d4fe;position: relative;padding: 1rem 1rem;margin-bottom: 1rem;border: 1px solid transparent;border-radius: .25rem;">
 Do you prefer Azure over AWS? No problem, <a href="https://vjirovsky.github.io/cloudmagnets-az/">check out the Azure version</a>.
 </div>
